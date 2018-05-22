@@ -33,6 +33,7 @@ plugins:
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 include: ["_pages"]
+_pages/about.md	permalink: /about/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
